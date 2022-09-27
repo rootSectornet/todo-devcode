@@ -1,0 +1,22 @@
+{
+  "name": "devcode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.2",
+    "express": "^4.18.1",
+    "express-group-routes": "^1.1.0",
+    "mysql2": "^2.3.3",
+    "sequelize": "^6.23.0",
+    "shelljs": "^0.8.5"
+  }
+}
